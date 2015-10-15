@@ -3,6 +3,7 @@ def back_out_unicode(stringval):
 
 def zip_info(zipcode):
     """
+    
     Takes a zip code and goes to www.uszip.com/zip/*zipcode and
     screen scrapes relevant information down.  *zipcode is the 5-digit zipcode  parameter
     
