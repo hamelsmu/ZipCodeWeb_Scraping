@@ -1,0 +1,3676 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <title>
+   Coppell, TX zip code
+  </title>
+  <meta content="What is the ZIP code for Coppell, TX? 75019: Zip Code Lookup Service Including Geographic and Demographic Statistics and Maps, Public School Records, Universities, Medical Institutes, Crime Rates and Weather Information." name="description"/>
+  <meta content="Coppell TX zip code, Coppell zip code, TX zip codes, Coppell us zip, Coppell postal codes, Coppell postal code, Coppell maps, Coppell census data, Coppell census, Coppell weather, Coppell housing, Coppell schools, Coppell public libraries, Coppell hospitals, Coppell crime rates" name="keywords"/>
+  <meta content="width=device-width" name="viewport"/>
+  <meta content="07Yy49_ok2XAx7NZbBiWqMi8-6I24MSfUfGaEKxyyz4" name="google-site-verification"/>
+  <base href="http://www.uszip.com/"/>
+  <link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet"/>
+  <link href="http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet"/>
+  <link href="http://fonts.googleapis.com/css?family=Droid+Sans+Mono" rel="stylesheet"/>
+  <link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200,300,400,700" rel="stylesheet"/>
+  <link href="http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911" rel="stylesheet"/>
+  <link href="http://fonts.googleapis.com/css?family=Lobster+Two:400,700,400italic,700italic" rel="stylesheet"/>
+  <link href="root/app_common/css/bootstrap.min.css" rel="stylesheet"/>
+  <!--<link rel="stylesheet" href="-->
+  <!--/app_common/css/normalize.css">-->
+  <link href="root/app_common/css/smoothness/jquery-ui-1.11.3.custom.min.css" rel="stylesheet"/>
+  <link href="root/app_common/css/uzip.css" rel="stylesheet"/>
+  <!--[if lt IE 9]> <link rel="stylesheet" href="root/app_common/css/uzip-ie8.css"> <![endif]-->
+  <!--[if lt IE 8]> <link rel="stylesheet" href="root/app_common/css/uzip-ie7.css"> <![endif]-->
+  <link href="root/app_common/css/helpers.css" rel="stylesheet"/>
+  <link href="root/app_common/css/media.css" rel="stylesheet"/>
+  <link href="root/app_common/img/favicon_uzip.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="http://www.uszip.com/open-search.xml" rel="search" title="USZip.com" type="application/opensearchdescription+xml"/>
+  <script src="root/app_common/js/libs/modernizr-2.8.3.custom.min.js">
+  </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDnwrsw6r1n8CqPRhP9AK8la5o6DMLMDl0&amp;sensor=false">
+  </script>
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+<script src="root/app_common/js/libs/html5shiv.min.js"></script>
+<script src="root/app_common/js/libs/respond.min.js"></script>
+<![endif]-->
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-172613-7']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
+  <meta content="415599681828434" property="fb:app_id"/>
+ </head>
+ <body data-atp="ra-4f75bf3d5305fac2" data-fb="415599681828434" id="s4-page-homepage">
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=415599681828434&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+  </script>
+  <div id="page-container">
+   <header id="header">
+    <div class="clearfix" id="header-int">
+     <div id="network-header">
+      <span id="network-header-trigger">
+       TheSTANDS4Network
+       <span class="arw">
+        
+       </span>
+      </span>
+      <ul id="network-header-links" style="display:none;">
+       <li class="nw-abbreviations">
+        <a href="http://www.abbreviations.com/">
+         ABBREVIATIONS
+        </a>
+       </li>
+       <li class="nw-biographies">
+        <a href="http://www.biographies.net/">
+         BIOGRAPHIES
+        </a>
+       </li>
+       <li class="nw-convert">
+        <a href="http://www.convert.net/">
+         CONVERSIONS
+        </a>
+       </li>
+       <li class="nw-definitions">
+        <a href="http://www.definitions.net/">
+         DEFINITIONS
+        </a>
+       </li>
+       <li class="nw-grammar">
+        <a href="http://www.grammar.com/">
+         GRAMMAR
+        </a>
+       </li>
+       <li class="nw-lyrics">
+        <a href="http://www.lyrics.net/">
+         LYRICS
+        </a>
+       </li>
+       <li class="nw-phrases">
+        <a href="http://www.phrases.net/">
+         PHRASES
+        </a>
+       </li>
+       <li class="nw-poetry">
+        <a href="http://www.poetry.net/">
+         POETRY
+        </a>
+       </li>
+       <li class="nw-quotes">
+        <a href="http://www.quotes.net/">
+         QUOTES
+        </a>
+       </li>
+       <li class="nw-references">
+        <a href="http://www.references.net/">
+         REFERENCES
+        </a>
+       </li>
+       <li class="nw-rhymes">
+        <a href="http://www.rhymes.net/">
+         RHYMES
+        </a>
+       </li>
+       <li class="nw-symbols">
+        <a href="http://www.symbols.com/">
+         SYMBOLS
+        </a>
+       </li>
+       <li class="nw-synonyms">
+        <a href="http://www.synonyms.net/">
+         SYNONYMS
+        </a>
+       </li>
+       <li class="nw-uszip">
+        <a href="http://www.uszip.com/">
+         USZIP
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </header>
+   <div class="container" id="main" role="main">
+    <div class="content-top" id="content-top">
+     <div class="view-desktop hidden-xs">
+      <form action="subserp.php" id="search-frm" method="get">
+       <input id="page-word-search-op1" name="qtype" type="hidden" value="1"/>
+       <div class="rc5" id="page-top-search">
+        <div id="page-word-search">
+         <input autocomplete="off" class="rc5" id="page-word-search-query" name="st" placeholder="Search for zipcode or place name..." type="text" value="75019"/>
+         <div id="page-word-search-icon">
+         </div>
+         <button class="btn primary" id="page-word-search-button" type="submit">
+          Search
+         </button>
+        </div>
+       </div>
+       <div class="rc5" id="page-letter-search">
+       </div>
+      </form>
+      <div id="page-top-logo" onclick="location.href='http://www.uszip.com/';">
+       <img alt="USZip.com" src="root/app_common/img/top_logo_zip.png" title="USZip.com"/>
+      </div>
+     </div>
+     <div class="view-mobile visible-xs">
+      <form action="subserp.php" id="search-frm" method="get">
+       <input id="page-word-search-op1" name="qtype" type="hidden" value="1"/>
+       <div class="rc5" id="page-top-search">
+        <div id="page-word-search">
+         <input autocomplete="off" class="rc5" id="page-word-search-query" name="st" type="text" value="75019"/>
+         <div id="page-word-search-icon">
+         </div>
+         <button class="btn primary" id="page-word-search-button" type="submit">
+          Search
+         </button>
+        </div>
+       </div>
+       <div class="rc5" id="page-letter-search">
+       </div>
+      </form>
+      <div id="page-top-logo" onclick="location.href='http://www.uszip.com/';">
+       <img alt="USZip.com" src="root/app_common/img/top_logo_zip.png" title="USZip.com"/>
+      </div>
+     </div>
+    </div>
+    <div class="row">
+     <div class="col-sm-8 col-sm-push-4" id="content-main">
+      <div class="siteprop clearfix">
+       <hgroup>
+        <div style="position:absolute;float:right;top:12px;right:35px">
+         <div class="fb-like" data-action="like" data-colorscheme="light" data-height="" data-href="" data-layout="button_count" data-send="false" data-show-faces="true" data-width="">
+         </div>
+        </div>
+        <div style="position:absolute;float:right;top:14px;right:90px">
+         <div class="g-plusone" data-size="medium">
+         </div>
+         <script type="text/javascript">
+          window.___gcfg = {lang: 'en-GB'};		  (function() {		    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;		    po.src = 'https://apis.google.com/js/platform.js';		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);		  })();
+         </script>
+        </div>
+        <h1>
+         Welcome to USZip.com
+        </h1>
+       </hgroup>
+       <div class="siteprop-int clearfix">
+        <div>
+         <p>
+          <strong>
+           USZip.com
+          </strong>
+          USZip.com is an instant ZIP code lookup service featuring geographic and demographic data, crime rates, business information, educational institutes, weather and maps that can be explored by ZIP code or city name.
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="row" id="content-body">
+       <div class="col-xs-12 col-sm-12">
+        <div class="row">
+         <div class="adunit-middle adunit-middle-2col clearfix">
+          <div class="hidden-xs col-xs-12 col-sm-6">
+           <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+           </script>
+           <!-- ZIP_NEW_TRANS_300_250 -->
+           <ins class="adsbygoogle" data-ad-client="ca-pub-6071864913982699" data-ad-slot="5101701771" style="display:inline-block;width:300px;height:250px">
+           </ins>
+           <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+           </script>
+          </div>
+          <div class="col-xs-12 col-sm-6">
+           <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+           </script>
+           <!-- ZIP_NEW_IMG_300_250 -->
+           <ins class="adsbygoogle" data-ad-client="ca-pub-6071864913982699" data-ad-slot="4524844468" style="display:inline-block;width:300px;height:250px">
+           </ins>
+           <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+           </script>
+          </div>
+         </div>
+        </div>
+        <div class="zip-data clearfix">
+         <!-- place name / title -->
+         <hgroup>
+          <div style="position:relative;float:right;top:2px;right:-3px">
+           <div class="fb-like" data-action="like" data-colorscheme="light" data-height="" data-href="" data-layout="button_count" data-send="false" data-show-faces="true" data-width="">
+           </div>
+          </div>
+          <div style="position:relative;float:right;top:4px;right:-25px">
+           <div class="g-plusone" data-size="medium">
+           </div>
+           <script type="text/javascript">
+            window.___gcfg = {lang: 'en-GB'};		  (function() {		    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;		    po.src = 'https://apis.google.com/js/platform.js';		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);		  })();
+           </script>
+          </div>
+          <h3>
+           <strong>
+            75019
+           </strong>
+           is the zip code for
+          </h3>
+          <h2>
+           <strong>
+            Coppell,
+            <a href="state.php?state=TX">
+             TX
+            </a>
+           </strong>
+          </h2>
+         </hgroup>
+         <!-- geographic data / map -->
+         <dl class="zip-stats zip-stats-left">
+          <dt class="fw">
+           Also in this location:
+          </dt>
+          <dt class="l2 fw">
+           <strong>
+            Dallas,
+            <a href="state.php?state=TX">
+             TX
+            </a>
+           </strong>
+          </dt>
+          <dt class="l2 fw">
+           <strong>
+            Carrollton,
+            <a href="state.php?state=TX">
+             TX
+            </a>
+           </strong>
+          </dt>
+          <dt class="l2 fw">
+           <strong>
+            Grapevine,
+            <a href="state.php?state=TX">
+             TX
+            </a>
+           </strong>
+          </dt>
+          <dt class="l2 fw">
+           <strong>
+            Lewisville,
+            <a href="state.php?state=TX">
+             TX
+            </a>
+           </strong>
+          </dt>
+          <hr/>
+          <dt>
+           Total population
+          </dt>
+          <dd>
+           38,666
+           <span class="trend trend-up" title="+2,929 (+7.58% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           Housing units
+          </dt>
+          <dd>
+           14,346
+           <span class="trend trend-up" title="+1,857 (+12.94% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           Land area
+           <br/>
+           <span class="stype">
+            (sq. miles)
+           </span>
+          </dt>
+          <dd>
+           16.47
+          </dd>
+          <dt>
+           Density
+           <br/>
+           <span class="stype">
+            (people per sq. mile)
+           </span>
+          </dt>
+          <dd>
+           2,347.66
+           <span class="trend trend-up" title="+178 (+7.58% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           Water area
+           <br/>
+           <span class="stype">
+            (sq. miles)
+           </span>
+          </dt>
+          <dd>
+           1.80
+          </dd>
+         </dl>
+         <div class="stats-chart-ext stats-chart-right" id="zip-place-map-ext">
+          <div class="stats-chart" data-lat="32.963417" data-long="-96.984664" data-zoom="14" id="zip-place-map">
+          </div>
+         </div>
+        </div>
+        <div>
+         <hgroup class="stats-sechead">
+          <h2>
+           Demographic data for zip code
+           <strong>
+            75019
+           </strong>
+          </h2>
+         </hgroup>
+        </div>
+        <!-- gender -->
+        <div class="zip-data clearfix">
+         <dl class="zip-stats zip-stats-left">
+          <h3>
+           Gender:
+          </h3>
+          <dt>
+           Male
+          </dt>
+          <dd>
+           18,982
+           <span class="trend trend-up" title="+1,360 (+7.16% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           Female
+          </dt>
+          <dd>
+           19,684
+           <span class="trend trend-up" title="+1,569 (+7.97% since 2000)">
+            
+           </span>
+          </dd>
+          <dt style="margin-top:20px;">
+           <strong>
+            Median age
+           </strong>
+          </dt>
+          <dt class="l2">
+           Male
+          </dt>
+          <dd>
+           36.80
+          </dd>
+          <dt class="l2">
+           Female
+          </dt>
+          <dd>
+           38.40
+          </dd>
+         </dl>
+         <div class="stats-chart-ext stats-chart-right">
+          <div class="stats-chart" data-chart='{"male":[18982,17622],"female":[19684,18115]}' id="zip-demog-gender">
+          </div>
+          <div class="stats-chart-label">
+           Gender
+          </div>
+         </div>
+        </div>
+        <!-- households / housing units -->
+        <div class="zip-data clearfix">
+         <div class="zip-data-grp clearfix">
+          <dl class="zip-stats zip-stats-left">
+           <h3>
+            Households:
+           </h3>
+           <dt>
+            <strong>
+             Total households
+            </strong>
+           </dt>
+           <dd>
+            13,808
+            <span class="trend trend-up" title="+1,676 (+12.14% since 2000)">
+             
+            </span>
+           </dd>
+           <dt class="l2">
+            Family households
+           </dt>
+           <dd>
+            10,747
+            <span class="trend trend-up" title="+1,026 (+9.55% since 2000)">
+             
+            </span>
+           </dd>
+           <dt class="l2">
+            Nonfamily households
+           </dt>
+           <dd>
+            3,061
+            <span class="trend trend-up" title="+650 (+21.23% since 2000)">
+             
+            </span>
+           </dd>
+           <dt>
+            <strong>
+             Average household size
+            </strong>
+           </dt>
+           <dd>
+            2.80
+            <span class="trend trend-down" title="-0 (-5.36% since 2000)">
+             
+            </span>
+           </dd>
+           <dt>
+            <strong>
+             Average family size
+            </strong>
+           </dt>
+           <dd>
+            3.23
+            <span class="trend trend-down" title="-0 (-3.72% since 2000)">
+             
+            </span>
+           </dd>
+          </dl>
+          <div class="stats-chart-ext stats-chart-right">
+           <div class="stats-chart" data-chart='{"family":[10747,9721],"nonfamily":[3061,2411]}' id="zip-demog-households">
+           </div>
+           <div class="stats-chart-label">
+            Households
+           </div>
+          </div>
+         </div>
+         <div class="zip-data-grp clearfix">
+          <dl class="zip-stats zip-stats-left">
+           <h3>
+            Housing units:
+           </h3>
+           <dt>
+            <strong>
+             Total housing units
+            </strong>
+           </dt>
+           <dd>
+            14,346
+            <span class="trend trend-up" title="+1,857 (+12.94% since 2000)">
+             
+            </span>
+           </dd>
+           <dt class="l2">
+            <strong>
+             Occupied housing units
+            </strong>
+           </dt>
+           <dd>
+            13,808
+            <span class="trend trend-up" title="+1,676 (+12.14% since 2000)">
+             
+            </span>
+           </dd>
+           <dt class="l3">
+            Owner-occupied
+           </dt>
+           <dd>
+            10,143
+            <span class="trend trend-up" title="+797 (+7.86% since 2000)">
+             
+            </span>
+           </dd>
+           <dt class="l3">
+            Renter-occupied
+           </dt>
+           <dd>
+            3,665
+            <span class="trend trend-up" title="+879 (+23.98% since 2000)">
+             
+            </span>
+           </dd>
+           <dt class="l2">
+            <strong>
+             Vacant housing units
+            </strong>
+           </dt>
+           <dd>
+            538
+            <span class="trend trend-up" title="+181 (+33.64% since 2000)">
+             
+            </span>
+           </dd>
+          </dl>
+          <div class="stats-chart-ext stats-chart-right">
+           <div class="stats-chart" data-chart='{"owner":[10143,9346],"renter":[3665,2786],"vacant":[538,357]}' id="zip-demog-housing-units">
+           </div>
+           <div class="stats-chart-label">
+            Housing units
+           </div>
+          </div>
+         </div>
+        </div>
+        <!-- age -->
+        <div class="zip-data clearfix">
+         <dl class="zip-stats zip-stats-left">
+          <h3>
+           Age:
+          </h3>
+          <dt>
+           Under 5 years
+          </dt>
+          <dd>
+           2,311
+           <span class="trend trend-down" title="-1,074 (-46.47% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           5 to 9 years
+          </dt>
+          <dd>
+           3,143
+           <span class="trend trend-down" title="-723 (-23.00% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           10 to 14 years
+          </dt>
+          <dd>
+           3,908
+           <span class="trend trend-up" title="+389 (+9.95% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           15 to 19 years
+          </dt>
+          <dd>
+           3,273
+           <span class="trend trend-up" title="+1,003 (+30.64% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           20 to 24 years
+          </dt>
+          <dd>
+           1,460
+           <span class="trend trend-up" title="+481 (+32.95% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           25 to 34 years
+          </dt>
+          <dd>
+           3,857
+           <span class="trend trend-down" title="-1,003 (-26.00% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           35 to 44 years
+          </dt>
+          <dd>
+           6,342
+           <span class="trend trend-down" title="-2,712 (-42.76% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           45 to 54 years
+          </dt>
+          <dd>
+           8,373
+           <span class="trend trend-up" title="+3,172 (+37.88% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           55 to 59 years
+          </dt>
+          <dd>
+           2,460
+           <span class="trend trend-up" title="+1,363 (+55.41% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           60 to 64 years
+          </dt>
+          <dd>
+           1,487
+           <span class="trend trend-up" title="+897 (+60.32% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           65 to 74 years
+          </dt>
+          <dd>
+           1,256
+           <span class="trend trend-up" title="+682 (+54.30% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           75 to 84 years
+          </dt>
+          <dd>
+           577
+           <span class="trend trend-up" title="+297 (+51.47% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           85 years and over
+          </dt>
+          <dd>
+           219
+           <span class="trend trend-up" title="+157 (+71.69% since 2000)">
+            
+           </span>
+          </dd>
+          <dt>
+           <strong>
+            Median age
+           </strong>
+          </dt>
+          <dd>
+           37.70
+           <span class="trend trend-up" title="+4 (+11.14% since 2000)">
+            
+           </span>
+          </dd>
+         </dl>
+         <div class="stats-chart-ext stats-chart-right">
+          <div class="stats-chart" data-chart='[{"label":"0-5","2010":2311,"2000":3385},{"label":"5-9","2010":3143,"2000":3866},{"label":"10-14","2010":3908,"2000":3519},{"label":"15-19","2010":3273,"2000":2270},{"label":"20-24","2010":1460,"2000":979},{"label":"25-34","2010":3857,"2000":4860},{"label":"35-44","2010":6342,"2000":9054},{"label":"45-54","2010":8373,"2000":5201},{"label":"55-59","2010":2460,"2000":1097},{"label":"60-64","2010":1487,"2000":590},{"label":"65-74","2010":1256,"2000":574},{"label":"75-84","2010":577,"2000":280},{"label":"85+","2010":219,"2000":62}]' id="zip-demog-age">
+          </div>
+          <div class="stats-chart-label">
+           Age
+          </div>
+         </div>
+        </div>
+        <!-- race -->
+        <div class="zip-data clearfix">
+         <dl class="zip-stats zip-stats-left">
+          <h3>
+           Race:
+          </h3>
+          <dt>
+           White
+          </dt>
+          <dd>
+           25,541
+          </dd>
+          <dt>
+           Hispanic or Latino
+          </dt>
+          <dd>
+           4,368
+          </dd>
+          <dt>
+           Black or African American
+          </dt>
+          <dd>
+           1,694
+          </dd>
+          <dt>
+           Asian
+          </dt>
+          <dd>
+           6,120
+          </dd>
+          <dt>
+           American Indian &amp; Alaska Native
+          </dt>
+          <dd>
+           111
+          </dd>
+          <dt>
+           Native Hawaiian &amp; Other Pacific Islander
+          </dt>
+          <dd>
+           17
+          </dd>
+          <dt>
+           Other (One Race)
+          </dt>
+          <dd>
+           49
+          </dd>
+          <dt>
+           Two or More Races
+          </dt>
+          <dd>
+           766
+          </dd>
+         </dl>
+         <div class="stats-chart-ext stats-chart-right">
+          <div class="stats-chart" data-chart='[{"label":"White","2010":25541},{"label":"Hispanic \/ Latino","2010":4368},{"label":"Black \/ African American","2010":1694},{"label":"Asian","2010":6120},{"label":"American Indian &amp; Alaska Native","2010":111},{"label":"Native Hawaiian &amp; Other Pacific Islander","2010":17},{"label":"Other (One Race)","2010":49},{"label":"Two or More Races","2010":766}]' id="zip-demog-race">
+          </div>
+          <div class="stats-chart-label">
+           Race
+          </div>
+         </div>
+        </div>
+        <div class="zip-data-comment clearfix">
+         * Based on 2010, 2000 U.S. Census data
+        </div>
+        <div>
+         <hgroup class="stats-sechead">
+          <h2>
+           Economic data for zip code
+           <strong>
+            75019
+           </strong>
+          </h2>
+         </hgroup>
+        </div>
+        <!-- employment status -->
+        <div class="zip-data clearfix">
+         <div class="zip-data-grp clearfix">
+          <dl class="zip-stats zip-stats-left">
+           <h3>
+            Employment status:
+           </h3>
+           <dt>
+            <strong>
+             Population
+            </strong>
+            <br/>
+            <span class="stype">
+             (16 years and over)
+            </span>
+           </dt>
+           <dd>
+            28,383
+           </dd>
+           <dt>
+            <strong>
+             Civilian labor force
+            </strong>
+           </dt>
+           <dd>
+            21,236
+           </dd>
+           <dt class="l2">
+            Employed
+           </dt>
+           <dd>
+            20,343
+           </dd>
+           <dt class="l2">
+            Unemployed
+           </dt>
+           <dd>
+            893
+           </dd>
+           <dt>
+            <strong>
+             Armed Forces
+            </strong>
+           </dt>
+           <dd>
+            0
+           </dd>
+           <dt>
+            Not in labor force
+           </dt>
+           <dd>
+            7,147
+           </dd>
+           <dt>
+            <strong>
+             Percent Unemployed
+            </strong>
+           </dt>
+           <dd>
+            4.2%
+           </dd>
+          </dl>
+          <div class="stats-chart-ext stats-chart-right">
+           <div class="stats-chart" data-chart='[{"label":"Employed","n":20343},{"label":"Unemployed","n":893},{"label":"Armed Forces","n":0}]' id="zip-econ-employment">
+           </div>
+           <div class="stats-chart-label">
+            Employment status
+           </div>
+          </div>
+         </div>
+        </div>
+        <!-- commute -->
+        <div class="zip-data clearfix">
+         <div class="zip-data-grp clearfix">
+          <dl class="zip-stats zip-stats-left">
+           <h3>
+            Commuting to work:
+           </h3>
+           <dt>
+            <strong>
+             Workers
+            </strong>
+            <br/>
+            <span class="stype">
+             (16 years and over)
+            </span>
+           </dt>
+           <dd>
+            19,915
+           </dd>
+           <dt>
+            <strong>
+             Car, truck, or van
+            </strong>
+           </dt>
+           <dt class="l2">
+            Drove alone
+           </dt>
+           <dd>
+            17,011
+           </dd>
+           <dt class="l2">
+            Carpooled
+           </dt>
+           <dd>
+            1,041
+           </dd>
+           <dt>
+            <strong>
+             Public transportation
+            </strong>
+            <br/>
+            <span class="stype">
+             (excluding taxicab)
+            </span>
+           </dt>
+           <dd>
+            87
+           </dd>
+           <dt>
+            <strong>
+             Walked
+            </strong>
+           </dt>
+           <dd>
+            121
+           </dd>
+           <dt>
+            <strong>
+             Other means
+            </strong>
+           </dt>
+           <dd>
+            154
+           </dd>
+           <dt>
+            <strong>
+             Worked at home
+            </strong>
+           </dt>
+           <dd>
+            1,501
+           </dd>
+           <dt>
+            <strong>
+             Mean travel time
+            </strong>
+           </dt>
+           <dd>
+            23.1 min.
+           </dd>
+          </dl>
+          <div class="stats-chart-ext stats-chart-right">
+           <div class="stats-chart" data-chart='[{"label":"Drove alone","n":17011},{"label":"Carpooled","n":1041},{"label":"Public transportation","n":87},{"label":"Walked","n":121},{"label":"Other means","n":154},{"label":"Worked at home","n":1501}]' id="zip-econ-commute">
+           </div>
+           <div class="stats-chart-label">
+            Commuting to work
+           </div>
+          </div>
+         </div>
+        </div>
+        <!-- occupation -->
+        <div class="zip-data clearfix">
+         <div class="zip-data-grp clearfix">
+          <dl class="zip-stats zip-stats-left">
+           <h3>
+            Occupation:
+           </h3>
+           <dt>
+            <strong>
+             Civilian employed population
+            </strong>
+            <br/>
+            <span class="stype">
+             (16 years and over)
+            </span>
+           </dt>
+           <dd>
+            20,343
+           </dd>
+           <dt>
+            Management / business / science / arts
+           </dt>
+           <dd>
+            12,253
+           </dd>
+           <dt>
+            Service
+           </dt>
+           <dd>
+            1,516
+           </dd>
+           <dt>
+            Sales / office
+           </dt>
+           <dd>
+            4,888
+           </dd>
+           <dt>
+            Natural resources / construction / maintenance
+           </dt>
+           <dd>
+            835
+           </dd>
+           <dt>
+            Production / transportation / material moving
+           </dt>
+           <dd>
+            851
+           </dd>
+          </dl>
+          <div class="stats-chart-ext stats-chart-right">
+           <div class="stats-chart" data-chart='[{"label":"Management \/ business \/ science \/ arts","n":12253},{"label":"Service","n":1516},{"label":"Sales \/ office","n":4888},{"label":"Natural resources \/ construction \/ maintenance","n":835},{"label":"Production \/ transportation \/ material moving","n":851}]' id="zip-econ-occupation">
+           </div>
+           <div class="stats-chart-label">
+            Occupation
+           </div>
+          </div>
+         </div>
+        </div>
+        <!-- industry -->
+        <div class="zip-data clearfix">
+         <div class="zip-data-grp clearfix">
+          <dl class="zip-stats zip-stats-left">
+           <h3>
+            Industry:
+           </h3>
+           <dt>
+            <strong>
+             Civilian employed population
+            </strong>
+            <br/>
+            <span class="stype">
+             (16 years and over)
+            </span>
+           </dt>
+           <dd>
+            20,343
+           </dd>
+           <dt>
+            Agriculture / forestry / fishing / hunting / mining
+           </dt>
+           <dd>
+            233
+           </dd>
+           <dt>
+            Construction
+           </dt>
+           <dd>
+            817
+           </dd>
+           <dt>
+            Manufacturing
+           </dt>
+           <dd>
+            2,210
+           </dd>
+           <dt>
+            Wholesale trade
+           </dt>
+           <dd>
+            873
+           </dd>
+           <dt>
+            Retail trade
+           </dt>
+           <dd>
+            1,719
+           </dd>
+           <dt>
+            Transportation / warehousing / utilities
+           </dt>
+           <dd>
+            1,233
+           </dd>
+           <dt>
+            Information
+           </dt>
+           <dd>
+            1,257
+           </dd>
+           <dt>
+            Finance / insurance / real estate / rental / leasing
+           </dt>
+           <dd>
+            2,400
+           </dd>
+           <dt>
+            Professional / scientific / management / administrative / waste management services
+           </dt>
+           <dd>
+            3,505
+           </dd>
+           <dt>
+            Educational services / health care / social assistance
+           </dt>
+           <dd>
+            3,524
+           </dd>
+           <dt>
+            Arts / entertainment / recreation / accommodation / food services
+           </dt>
+           <dd>
+            1,413
+           </dd>
+           <dt>
+            Public administration
+           </dt>
+           <dd>
+            466
+           </dd>
+           <dt>
+            Other services
+           </dt>
+           <dd>
+            693
+           </dd>
+          </dl>
+          <div class="stats-chart-ext stats-chart-right">
+           <div class="stats-chart" data-chart='[{"label":"Agriculture \/ forestry \/ fishing \/ hunting \/ mining","n":233},{"label":"Construction","n":817},{"label":"Manufacturing","n":2210},{"label":"Wholesale trade","n":873},{"label":"Retail trade","n":1719},{"label":"Transportation \/ warehousing \/ utilities","n":1233},{"label":"Information","n":1257},{"label":"Finance \/ insurance \/ real estate \/ rental \/ leasing","n":2400},{"label":"Professional \/ scientific \/ management \/ administrative \/ waste management services","n":3505},{"label":"Educational services \/ health care \/ social assistance","n":3524},{"label":"Arts \/ entertainment \/ recreation \/ accommodation \/ food services","n":1413},{"label":"Public administration","n":466},{"label":"Other services","n":693}]' id="zip-econ-industry">
+           </div>
+           <div class="stats-chart-label">
+            Industry
+           </div>
+          </div>
+         </div>
+        </div>
+        <!-- worker class -->
+        <div class="zip-data clearfix">
+         <div class="zip-data-grp clearfix">
+          <dl class="zip-stats zip-stats-left">
+           <h3>
+            Class of worker:
+           </h3>
+           <dt>
+            <strong>
+             Civilian employed population
+            </strong>
+            <br/>
+            <span class="stype">
+             (16 years and over)
+            </span>
+           </dt>
+           <dd>
+            20,343
+           </dd>
+           <dt>
+            Private wage &amp; salary workers
+           </dt>
+           <dd>
+            17,334
+           </dd>
+           <dt>
+            Government workers
+           </dt>
+           <dd>
+            1,987
+           </dd>
+           <dt>
+            Self-employed
+            <br/>
+            <span class="stype">
+             (in own not incorporated business)
+            </span>
+           </dt>
+           <dd>
+            1,022
+           </dd>
+           <dt>
+            Unpaid family workers
+           </dt>
+           <dd>
+            0
+           </dd>
+          </dl>
+          <div class="stats-chart-ext stats-chart-right">
+           <div class="stats-chart" data-chart='[{"label":"Private wage &amp; salary workers","n":17334},{"label":"Government workers","n":1987},{"label":"Self-employed","n":1022},{"label":"Unpaid family workers","n":0}]' id="zip-econ-wclass">
+           </div>
+           <div class="stats-chart-label">
+            Class of worker
+           </div>
+          </div>
+         </div>
+        </div>
+        <!-- income -->
+        <div class="zip-data clearfix">
+         <div class="zip-data-grp clearfix">
+          <dl class="zip-stats zip-stats-left">
+           <h3>
+            Income:
+           </h3>
+           <dt>
+            <strong>
+             Total households
+            </strong>
+           </dt>
+           <dd>
+            13,641
+           </dd>
+           <dt>
+            Less than $10,000
+           </dt>
+           <dd>
+            424
+           </dd>
+           <dt>
+            $10,000 to $14,999
+           </dt>
+           <dd>
+            55
+           </dd>
+           <dt>
+            $15,000 to $24,999
+           </dt>
+           <dd>
+            428
+           </dd>
+           <dt>
+            $25,000 to $34,999
+           </dt>
+           <dd>
+            561
+           </dd>
+           <dt>
+            $35,000 to $49,999
+           </dt>
+           <dd>
+            1,209
+           </dd>
+           <dt>
+            $50,000 to $74,999
+           </dt>
+           <dd>
+            1,914
+           </dd>
+           <dt>
+            $75,000 to $99,999
+           </dt>
+           <dd>
+            1,711
+           </dd>
+           <dt>
+            $100,000 to $149,999
+           </dt>
+           <dd>
+            3,370
+           </dd>
+           <dt>
+            $150,000 to $199,999
+           </dt>
+           <dd>
+            1,656
+           </dd>
+           <dt>
+            $200,000 or more
+           </dt>
+           <dd>
+            2,313
+           </dd>
+           <dt style="margin-top:20px;">
+            <strong>
+             Median household income
+            </strong>
+           </dt>
+           <dd style="margin-top:20px;">
+            $106,981
+           </dd>
+           <dt>
+            <strong>
+             Mean household income
+            </strong>
+           </dt>
+           <dd>
+            $130,130
+           </dd>
+           <dt style="margin-top:20px;">
+            <strong>
+             Percentage of people whose income in the past 12 months is below the poverty level
+            </strong>
+           </dt>
+           <dd style="margin-top:20px;">
+            2.9%
+           </dd>
+          </dl>
+          <div class="stats-chart-ext stats-chart-right">
+           <div class="stats-chart" data-chart='[{"label":"Less than $10,000","n":424},{"label":"$10,000 - $14,999","n":55},{"label":"$15,000 - $24,999","n":428},{"label":"$25,000 - $34,999","n":561},{"label":"$35,000 - $49,999","n":1209},{"label":"$50,000 - $74,999","n":1914},{"label":"$75,000 - $99,999","n":1711},{"label":"$100,000 - $149,999","n":3370},{"label":"$150,000 - $199,999","n":1656},{"label":"$200,000 or more","n":2313}]' id="zip-econ-income">
+           </div>
+           <div class="stats-chart-label">
+            Income
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="zip-data-comment clearfix">
+         * Based on 2007-2011 American Community Survey 5-year estimates
+        </div>
+        <!-- schools -->
+        <div>
+         <hgroup class="stats-sechead">
+          <h2>
+           Public schools in
+           <strong>
+            75019
+           </strong>
+          </h2>
+         </hgroup>
+        </div>
+        <div class="zip-data clearfix">
+         <div class="tdata-ext">
+          <table class="tdata">
+           <colgroup>
+            <col style="width: 240px;">
+            </col>
+            <col style="width: 120px;">
+            </col>
+            <col style="width: 80px;">
+            </col>
+            <col style="width: 80px;">
+            </col>
+            <col style="width: 80px;">
+            </col>
+           </colgroup>
+           <thead>
+            <tr>
+             <th>
+              Name &amp; Address
+             </th>
+             <th>
+              Phone
+             </th>
+             <th class="tar">
+              # of students
+             </th>
+             <th class="tar">
+              Free lunch
+             </th>
+             <th class="tar">
+              Pupils per teacher
+             </th>
+            </tr>
+           </thead>
+           <tbody>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Austin El
+              </strong>
+              <br/>
+              161 S Moore
+             </td>
+             <td class="tal dx">
+              (214) 496-7300
+             </td>
+             <td class="tar dx">
+              538
+             </td>
+             <td class="tar dx">
+              30
+             </td>
+             <td class="tar dx">
+              13.6
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Compass Academy
+              </strong>
+              <br/>
+              1202 State Championship Pkwy
+              <br/>
+              (Other/Alternative School)
+             </td>
+             <td class="tal dx">
+              (214) 496-8032
+             </td>
+             <td class="tar dx">
+              0
+             </td>
+             <td class="tar dx">
+              0
+             </td>
+             <td class="tar dx">
+              0.0
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Coppell H S
+              </strong>
+              <br/>
+              185 W Pkwy Blvd
+             </td>
+             <td class="tal dx">
+              (214) 496-6100
+             </td>
+             <td class="tar dx">
+              2,964
+             </td>
+             <td class="tar dx">
+              104
+             </td>
+             <td class="tar dx">
+              15.6
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Coppell Middle East
+              </strong>
+              <br/>
+              400 Mockingbird
+             </td>
+             <td class="tal dx">
+              (214) 496-6600
+             </td>
+             <td class="tar dx">
+              717
+             </td>
+             <td class="tar dx">
+              56
+             </td>
+             <td class="tar dx">
+              13.5
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Coppell Middle North
+              </strong>
+              <br/>
+              120 Naches Trace
+             </td>
+             <td class="tal dx">
+              (214) 496-7100
+             </td>
+             <td class="tar dx">
+              815
+             </td>
+             <td class="tar dx">
+              20
+             </td>
+             <td class="tar dx">
+              14.1
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Coppell Middle West
+              </strong>
+              <br/>
+              1301 Wrangler Cir
+             </td>
+             <td class="tal dx">
+              (214) 496-8600
+             </td>
+             <td class="tar dx">
+              875
+             </td>
+             <td class="tar dx">
+              51
+             </td>
+             <td class="tar dx">
+              14.3
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Cottonwood Creek El
+              </strong>
+              <br/>
+              615 Minyard
+             </td>
+             <td class="tal dx">
+              (214) 496-8300
+             </td>
+             <td class="tar dx">
+              479
+             </td>
+             <td class="tar dx">
+              6
+             </td>
+             <td class="tar dx">
+              14.6
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Denton Creek El
+              </strong>
+              <br/>
+              250 Naches Trace
+             </td>
+             <td class="tal dx">
+              (214) 896-8100
+             </td>
+             <td class="tar dx">
+              495
+             </td>
+             <td class="tar dx">
+              23
+             </td>
+             <td class="tar dx">
+              14.6
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Lakeside El
+              </strong>
+              <br/>
+              1100 Village Pkwy
+             </td>
+             <td class="tal dx">
+              (214) 496-7600
+             </td>
+             <td class="tar dx">
+              469
+             </td>
+             <td class="tar dx">
+              3
+             </td>
+             <td class="tar dx">
+              14.2
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Lee El
+              </strong>
+              <br/>
+              113 Samuel
+             </td>
+             <td class="tal dx">
+              (214) 496-7900
+             </td>
+             <td class="tar dx">
+              375
+             </td>
+             <td class="tar dx">
+              37
+             </td>
+             <td class="tar dx">
+              11.9
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Mockingbird El
+              </strong>
+              <br/>
+              300 Mockingbird
+             </td>
+             <td class="tal dx">
+              (214) 496-8200
+             </td>
+             <td class="tar dx">
+              519
+             </td>
+             <td class="tar dx">
+              35
+             </td>
+             <td class="tar dx">
+              14.6
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Pinkerton El
+              </strong>
+              <br/>
+              260 Southwestern Blvd
+             </td>
+             <td class="tal dx">
+              (214) 496-6800
+             </td>
+             <td class="tar dx">
+              326
+             </td>
+             <td class="tar dx">
+              19
+             </td>
+             <td class="tar dx">
+              12.9
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Riverchase Ele
+              </strong>
+              <br/>
+              272 S Macarthur Blvd
+             </td>
+             <td class="tal dx">
+              (972) 968-2900
+             </td>
+             <td class="tar dx">
+              398
+             </td>
+             <td class="tar dx">
+              102
+             </td>
+             <td class="tar dx">
+              14.7
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Town Center El
+              </strong>
+              <br/>
+              185 Heartz Rd
+             </td>
+             <td class="tal dx">
+              (214) 496-7800
+             </td>
+             <td class="tar dx">
+              503
+             </td>
+             <td class="tar dx">
+              14
+             </td>
+             <td class="tar dx">
+              14.3
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Wilson El
+              </strong>
+              <br/>
+              200 S Coppell Rd
+             </td>
+             <td class="tal dx">
+              (214) 496-7500
+             </td>
+             <td class="tar dx">
+              397
+             </td>
+             <td class="tar dx">
+              48
+             </td>
+             <td class="tar dx">
+              11.6
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+        <!-- libraries -->
+        <div>
+         <hgroup class="stats-sechead">
+          <h2>
+           Public libraries around
+           <strong>
+            Coppell, TX
+           </strong>
+          </h2>
+         </hgroup>
+        </div>
+        <div class="zip-data clearfix">
+         <div class="tdata-ext">
+          <table class="tdata">
+           <colgroup>
+            <col style="width: 330px;">
+            </col>
+            <col style="width: 270px;">
+            </col>
+           </colgroup>
+           <thead>
+            <tr>
+             <th>
+              Name
+             </th>
+             <th>
+              Address
+             </th>
+            </tr>
+           </thead>
+           <tbody>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               William T Cozby Public Library
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.ci.coppell.tx.us" rel="nofollow" target="_blank">
+               www.ci.coppell.tx.us
+              </a>
+             </td>
+             <td class="tal dx">
+              177 N Heartz Rd
+              <br/>
+              Coppell, TX 75019
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Allen Public Library
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.allenlibrary.org" rel="nofollow" target="_blank">
+               www.allenlibrary.org
+              </a>
+             </td>
+             <td class="tal dx">
+              300 N Allen Dr
+              <br/>
+              Allen, TX 75013
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+        <!-- universities -->
+        <!-- hospitals -->
+        <div>
+         <hgroup class="stats-sechead">
+          <h2>
+           Hospitals and Medical Centers around
+           <strong>
+            75019
+           </strong>
+          </h2>
+         </hgroup>
+        </div>
+        <div class="zip-data clearfix">
+         <div class="tdata-ext">
+          <table class="tdata">
+           <colgroup>
+            <col style="width: 230px;">
+            </col>
+            <col style="width: 210px;">
+            </col>
+            <col style="width: 100px;">
+            </col>
+            <col style="width: 60px;">
+            </col>
+           </colgroup>
+           <thead>
+            <tr>
+             <th>
+              Name
+             </th>
+             <th>
+              Address
+             </th>
+             <th>
+              Phone
+             </th>
+             <th class="tar">
+              # of beds
+             </th>
+            </tr>
+           </thead>
+           <tbody>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Baylor Medical Ctr At Garland
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.baylordallas.edu" rel="nofollow" target="_blank">
+               www.baylordallas.edu
+              </a>
+             </td>
+             <td class="tal dx">
+              2300 Marie Curie Boulevard
+              <br/>
+              Garland, TX 75042
+             </td>
+             <td class="tal dx">
+              (972) 487-5000
+             </td>
+             <td class="tar dx">
+              185
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Baylor Medical Ctr At Irving
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.bhcs.com/irving" rel="nofollow" target="_blank">
+               www.bhcs.com
+              </a>
+             </td>
+             <td class="tal dx">
+              1901 North Macarthur Boulevard
+              <br/>
+              Irving, TX 75061
+             </td>
+             <td class="tal dx">
+              (972) 579-8100
+             </td>
+             <td class="tar dx">
+              235
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Baylor/ Richardson Med Center
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.baylorhealth.com" rel="nofollow" target="_blank">
+               www.baylorhealth.com
+              </a>
+             </td>
+             <td class="tal dx">
+              401 West Campbell Road
+              <br/>
+              Richardson, TX 75080
+             </td>
+             <td class="tal dx">
+              (972) 498-4000
+             </td>
+             <td class="tar dx">
+              113
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Community Med Center Sherman
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.hcahealthcare.com" rel="nofollow" target="_blank">
+               www.hcahealthcare.com
+              </a>
+             </td>
+             <td class="tal dx">
+              1111 Gallagher Road
+              <br/>
+              Sherman, TX 75090
+             </td>
+             <td class="tal dx">
+              (903) 870-7000
+             </td>
+             <td class="tar dx">
+              128
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Garland Community Hospital
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.garlandcommunity.com" rel="nofollow" target="_blank">
+               www.garlandcommunity.com
+              </a>
+             </td>
+             <td class="tal dx">
+              2696 West Walnut Street
+              <br/>
+              Garland, TX 75042
+             </td>
+             <td class="tal dx">
+              (972) 276-7116
+             </td>
+             <td class="tar dx">
+              113
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Healthsouth Plano Rehab
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.healthsouth.com" rel="nofollow" target="_blank">
+               www.healthsouth.com
+              </a>
+             </td>
+             <td class="tal dx">
+              2800 West 15th Street
+              <br/>
+              Plano, TX 75075
+             </td>
+             <td class="tal dx">
+              (972) 612-9000
+             </td>
+             <td class="tar dx">
+              65
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Ihs Hospital At Plano
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.ihs-inc.com" rel="nofollow" target="_blank">
+               www.ihs-inc.com
+              </a>
+             </td>
+             <td class="tal dx">
+              1621 Coit Road
+              <br/>
+              Plano, TX 75075
+             </td>
+             <td class="tal dx">
+              (972) 758-5200
+             </td>
+             <td class="tar dx">
+              30
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Lake Pointe Medical Center
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.lakepointemedical.com" rel="nofollow" target="_blank">
+               www.lakepointemedical.com
+              </a>
+             </td>
+             <td class="tal dx">
+              6800 Scenic Drive
+              <br/>
+              Rowlett, TX 75088
+             </td>
+             <td class="tal dx">
+              (972) 412-2273
+             </td>
+             <td class="tar dx">
+              84
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Las Colinas Medical Center
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.lascolinasmedical.com" rel="nofollow" target="_blank">
+               www.lascolinasmedical.com
+              </a>
+             </td>
+             <td class="tal dx">
+              6800 North Macarthur Boulevard
+              <br/>
+              Irving, TX 75039
+             </td>
+             <td class="tal dx">
+              (972) 969-2000
+             </td>
+             <td class="tar dx">
+              77
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Medical Center Of Lewisville
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.lewisvillemedical.com" rel="nofollow" target="_blank">
+               www.lewisvillemedical.com
+              </a>
+             </td>
+             <td class="tal dx">
+              500 West Main
+              <br/>
+              Lewisville, TX 75057
+             </td>
+             <td class="tal dx">
+              (972) 420-1000
+             </td>
+             <td class="tar dx">
+              121
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Medical Center Of Plano
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.medicalcenterplano.com" rel="nofollow" target="_blank">
+               www.medicalcenterplano.com
+              </a>
+             </td>
+             <td class="tal dx">
+              3901 West 15th Street
+              <br/>
+              Plano, TX 75075
+             </td>
+             <td class="tal dx">
+              (972) 596-6800
+             </td>
+             <td class="tar dx">
+              285
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               North Central Medical Center
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.ncentralmedical.com" rel="nofollow" target="_blank">
+               www.ncentralmedical.com
+              </a>
+             </td>
+             <td class="tal dx">
+              4500 Medical Center Drive
+              <br/>
+              Mckinney, TX 75069
+             </td>
+             <td class="tal dx">
+              (972) 547-8000
+             </td>
+             <td class="tar dx">
+              159
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Presbyterian Hospital Of Plano
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.texashealth.org" rel="nofollow" target="_blank">
+               www.texashealth.org
+              </a>
+             </td>
+             <td class="tal dx">
+              6200 West Parker Road
+              <br/>
+              Plano, TX 75093
+             </td>
+             <td class="tal dx">
+              (972) 981-8000
+             </td>
+             <td class="tar dx">
+              155
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Seay Behavioral Health Center
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.texashealth.org" rel="nofollow" target="_blank">
+               www.texashealth.org
+              </a>
+             </td>
+             <td class="tal dx">
+              6200 West Parker Road
+              <br/>
+              Plano, TX 75093
+             </td>
+             <td class="tal dx">
+              (972) 608-8000
+             </td>
+             <td class="tar dx">
+              28
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Texoma Healthcare System
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.thcs.org" rel="nofollow" target="_blank">
+               www.thcs.org
+              </a>
+             </td>
+             <td class="tal dx">
+              1000 Memorial Drive
+              <br/>
+              Denison, TX 75020
+             </td>
+             <td class="tal dx">
+              (903) 416-4000
+             </td>
+             <td class="tar dx">
+              205
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Texoma Med Ctr Restorative
+              </strong>
+             </td>
+             <td class="tal dx">
+              "1000 Memorial Drive, 4th Floor"
+              <br/>
+              Denison, TX 75020
+             </td>
+             <td class="tal dx">
+              (903) 415-4007
+             </td>
+             <td class="tar dx">
+              29
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Trinity Medical Center
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.trinitymedicalcenter.com" rel="nofollow" target="_blank">
+               www.trinitymedicalcenter.com
+              </a>
+             </td>
+             <td class="tal dx">
+              4343 North Josey Lane
+              <br/>
+              Carrollton, TX 75010
+             </td>
+             <td class="tal dx">
+              (972) 492-1010
+             </td>
+             <td class="tar dx">
+              137
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Wilson N Jones Medical Center
+              </strong>
+              <br/>
+              <a class="hidden-xs" href="http://www.wnj.org" rel="nofollow" target="_blank">
+               www.wnj.org
+              </a>
+             </td>
+             <td class="tal dx">
+              500 North Highland Avenue
+              <br/>
+              Sherman, TX 75092
+             </td>
+             <td class="tal dx">
+              (903) 870-4611
+             </td>
+             <td class="tar dx">
+              198
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+        <!-- hotels -->
+        <!-- hotels -->
+        <div>
+         <hgroup class="stats-sechead">
+          <h2>
+           Restaurants, dining rooms and coffee shops in
+           <strong>
+            75019
+           </strong>
+          </h2>
+         </hgroup>
+        </div>
+        <div class="zip-data clearfix">
+         <div class="tdata-ext">
+          <table class="tdata">
+           <colgroup>
+            <col style="width: 230px;">
+            </col>
+            <col style="width: 210px;">
+            </col>
+            <col style="width: 100px;">
+            </col>
+            <col style="width: 100px;">
+            </col>
+           </colgroup>
+           <thead>
+            <tr>
+             <th>
+              Restaurant name
+             </th>
+             <th>
+              Address
+             </th>
+             <th>
+              Cuisine
+             </th>
+             <th>
+              Phone
+             </th>
+            </tr>
+           </thead>
+           <tbody>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Daddy Jack's Lobster Steak &amp; Seafood
+              </strong>
+             </td>
+             <td class="tal dx">
+              150 S Denton Tap #101
+              <br/>
+              Coppell, TX 75019
+             </td>
+             <td class="tal dx">
+              Seafood, Steaks
+             </td>
+             <td class="tal dx">
+              972-393-5152
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Green Pepper, The
+              </strong>
+             </td>
+             <td class="tal dx">
+              171 N Denton Tap Rd
+              <br/>
+              Coppell, TX 75019
+             </td>
+             <td class="tal dx">
+              Asian, Chinese, Thai, Vietnamese
+             </td>
+             <td class="tal dx">
+              940-471-8018
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Guero's Mexican Grill
+              </strong>
+             </td>
+             <td class="tal dx">
+              817 S Macarthur #125
+              <br/>
+              Coppell, TX 75019
+             </td>
+             <td class="tal dx">
+              Mexican
+             </td>
+             <td class="tal dx">
+              972-304-8101
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Ole's Tex Mex
+              </strong>
+             </td>
+             <td class="tal dx">
+              600 E Sandy Lake #106
+              <br/>
+              Coppell, TX 75019
+             </td>
+             <td class="tal dx">
+              Mexican
+             </td>
+             <td class="tal dx">
+              940-393-7510
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               7 Salsas - Fine Mexican Cuisine
+              </strong>
+             </td>
+             <td class="tal dx">
+              230 N. Denton Tap Rd.
+              <br/>
+              Coppell, TX 75019
+             </td>
+             <td class="tal dx">
+              Mexican, Southwestern, Tex-Mex
+             </td>
+             <td class="tal dx">
+              972-462-9006
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Cafe Miso
+              </strong>
+             </td>
+             <td class="tal dx">
+              761 S Macarthur Blvd
+              <br/>
+              Coppell, TX 75019
+             </td>
+             <td class="tal dx">
+              Sushi
+             </td>
+             <td class="tal dx">
+              972-745-3377
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Cafe Portobello
+              </strong>
+             </td>
+             <td class="tal dx">
+              110 W. Sandy Lake Rd. #112
+              <br/>
+              Coppell, TX 75019
+             </td>
+             <td class="tal dx">
+              Italian, Steak House
+             </td>
+             <td class="tal dx">
+              972-462-1055
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Ci Ci's Pizza
+              </strong>
+             </td>
+             <td class="tal dx">
+              100 E Sandy Lake Rd
+              <br/>
+              Coppell, TX 75019
+             </td>
+             <td class="tal dx">
+              Pizza
+             </td>
+             <td class="tal dx">
+              972-393-2424
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Kelly's Corner Grille
+              </strong>
+             </td>
+             <td class="tal dx">
+              104 S Denton Tap Rd
+              <br/>
+              Coppell, TX 75019
+             </td>
+             <td class="tal dx">
+              American
+             </td>
+             <td class="tal dx">
+              972-393-9040
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Pan Acean Noodles &amp; Grill
+              </strong>
+             </td>
+             <td class="tal dx">
+              777 S Macarthur Blvd Ste 401
+              <br/>
+              Coppell, TX 75019
+             </td>
+             <td class="tal dx">
+              Asian
+             </td>
+             <td class="tal dx">
+              972-745-7788
+             </td>
+            </tr>
+            <tr>
+             <td class="tal dx">
+              <strong>
+               Papa John's Pizza
+              </strong>
+             </td>
+             <td class="tal dx">
+              102 N Macarthur Blvd
+              <br/>
+              Coppell, TX 75019
+             </td>
+             <td class="tal dx">
+              Pizza
+             </td>
+             <td class="tal dx">
+              972-393-9998
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+        <!-- crime rates -->
+        <div>
+         <hgroup class="stats-sechead">
+          <h2>
+           Crime rates
+          </h2>
+         </hgroup>
+        </div>
+        <div class="zip-data clearfix">
+         <div class="zip-data-grp clearfix">
+          <dl class="zip-stats zip-stats-left">
+           <h3>
+            Crime rates in Carrollton, TX:
+           </h3>
+           <dt>
+            <strong>
+             Total
+            </strong>
+           </dt>
+           <dd>
+            4,127
+           </dd>
+           <dt class="l2">
+            <strong>
+             Violent Crime
+            </strong>
+           </dt>
+           <dd>
+            237
+           </dd>
+           <dt class="l3">
+            Murder &amp; Manslaughter
+           </dt>
+           <dd>
+            5
+           </dd>
+           <dt class="l3">
+            Forcible Rape
+           </dt>
+           <dd>
+            3
+           </dd>
+           <dt class="l3">
+            Robbery
+           </dt>
+           <dd>
+            116
+           </dd>
+           <dt class="l3">
+            Aggravated Assault
+           </dt>
+           <dd>
+            113
+           </dd>
+           <dt class="l2">
+            <strong>
+             Property Crime
+            </strong>
+           </dt>
+           <dd>
+            3,890
+           </dd>
+           <dt class="l3">
+            Burglary
+           </dt>
+           <dd>
+            893
+           </dd>
+           <dt class="l3">
+            Larceny &amp; Theft
+           </dt>
+           <dd>
+            2,636
+           </dd>
+           <dt class="l3">
+            Motor Vehicle Theft
+           </dt>
+           <dd>
+            361
+           </dd>
+           <dt class="l3">
+            Arson
+           </dt>
+           <dd>
+            8
+           </dd>
+          </dl>
+          <div class="stats-chart-ext stats-chart-right">
+           <div class="zip-demog-crime stats-chart" data-chart='[["Violent Crime",5,3,116,113,0,0,0,0],["Property Crime",0,0,0,0,893,2636,361,8]]' id="zip-demog-crime-0">
+           </div>
+           <div class="stats-chart-label">
+            Carrollton, TX
+           </div>
+          </div>
+         </div>
+         <div class="zip-data-grp clearfix">
+          <dl class="zip-stats zip-stats-left">
+           <h3>
+            Crime rates in Coppell, TX:
+           </h3>
+           <dt>
+            <strong>
+             Total
+            </strong>
+           </dt>
+           <dd>
+            780
+           </dd>
+           <dt class="l2">
+            <strong>
+             Violent Crime
+            </strong>
+           </dt>
+           <dd>
+            40
+           </dd>
+           <dt class="l3">
+            Murder &amp; Manslaughter
+           </dt>
+           <dd>
+            0
+           </dd>
+           <dt class="l3">
+            Forcible Rape
+           </dt>
+           <dd>
+            1
+           </dd>
+           <dt class="l3">
+            Robbery
+           </dt>
+           <dd>
+            10
+           </dd>
+           <dt class="l3">
+            Aggravated Assault
+           </dt>
+           <dd>
+            29
+           </dd>
+           <dt class="l2">
+            <strong>
+             Property Crime
+            </strong>
+           </dt>
+           <dd>
+            740
+           </dd>
+           <dt class="l3">
+            Burglary
+           </dt>
+           <dd>
+            134
+           </dd>
+           <dt class="l3">
+            Larceny &amp; Theft
+           </dt>
+           <dd>
+            543
+           </dd>
+           <dt class="l3">
+            Motor Vehicle Theft
+           </dt>
+           <dd>
+            63
+           </dd>
+           <dt class="l3">
+            Arson
+           </dt>
+           <dd>
+            2
+           </dd>
+          </dl>
+          <div class="stats-chart-ext stats-chart-right">
+           <div class="zip-demog-crime stats-chart" data-chart='[["Violent Crime",0,1,10,29,0,0,0,0],["Property Crime",0,0,0,0,134,543,63,2]]' id="zip-demog-crime-1">
+           </div>
+           <div class="stats-chart-label">
+            Coppell, TX
+           </div>
+          </div>
+         </div>
+         <div class="zip-data-grp clearfix">
+          <dl class="zip-stats zip-stats-left">
+           <h3>
+            Crime rates in Dallas, TX:
+           </h3>
+           <dt>
+            <strong>
+             Total
+            </strong>
+           </dt>
+           <dd>
+            97,210
+           </dd>
+           <dt class="l2">
+            <strong>
+             Violent Crime
+            </strong>
+           </dt>
+           <dd>
+            13,248
+           </dd>
+           <dt class="l3">
+            Murder &amp; Manslaughter
+           </dt>
+           <dd>
+            200
+           </dd>
+           <dt class="l3">
+            Forcible Rape
+           </dt>
+           <dd>
+            511
+           </dd>
+           <dt class="l3">
+            Robbery
+           </dt>
+           <dd>
+            7,222
+           </dd>
+           <dt class="l3">
+            Aggravated Assault
+           </dt>
+           <dd>
+            5,315
+           </dd>
+           <dt class="l2">
+            <strong>
+             Property Crime
+            </strong>
+           </dt>
+           <dd>
+            83,962
+           </dd>
+           <dt class="l3">
+            Burglary
+           </dt>
+           <dd>
+            22,472
+           </dd>
+           <dt class="l3">
+            Larceny &amp; Theft
+           </dt>
+           <dd>
+            47,699
+           </dd>
+           <dt class="l3">
+            Motor Vehicle Theft
+           </dt>
+           <dd>
+            13,791
+           </dd>
+           <dt class="l3">
+            Arson
+           </dt>
+           <dd>
+            909
+           </dd>
+          </dl>
+          <div class="stats-chart-ext stats-chart-right">
+           <div class="zip-demog-crime stats-chart" data-chart='[["Violent Crime",200,511,7222,5315,0,0,0,0],["Property Crime",0,0,0,0,22472,47699,13791,909]]' id="zip-demog-crime-2">
+           </div>
+           <div class="stats-chart-label">
+            Dallas, TX
+           </div>
+          </div>
+         </div>
+         <div class="zip-data-grp clearfix">
+          <dl class="zip-stats zip-stats-left">
+           <h3>
+            Crime rates in Grapevine, TX:
+           </h3>
+           <dt>
+            <strong>
+             Total
+            </strong>
+           </dt>
+           <dd>
+            1,603
+           </dd>
+           <dt class="l2">
+            <strong>
+             Violent Crime
+            </strong>
+           </dt>
+           <dd>
+            88
+           </dd>
+           <dt class="l3">
+            Murder &amp; Manslaughter
+           </dt>
+           <dd>
+            0
+           </dd>
+           <dt class="l3">
+            Forcible Rape
+           </dt>
+           <dd>
+            11
+           </dd>
+           <dt class="l3">
+            Robbery
+           </dt>
+           <dd>
+            32
+           </dd>
+           <dt class="l3">
+            Aggravated Assault
+           </dt>
+           <dd>
+            45
+           </dd>
+           <dt class="l2">
+            <strong>
+             Property Crime
+            </strong>
+           </dt>
+           <dd>
+            1,515
+           </dd>
+           <dt class="l3">
+            Burglary
+           </dt>
+           <dd>
+            185
+           </dd>
+           <dt class="l3">
+            Larceny &amp; Theft
+           </dt>
+           <dd>
+            1,205
+           </dd>
+           <dt class="l3">
+            Motor Vehicle Theft
+           </dt>
+           <dd>
+            125
+           </dd>
+           <dt class="l3">
+            Arson
+           </dt>
+           <dd>
+            2
+           </dd>
+          </dl>
+          <div class="stats-chart-ext stats-chart-right">
+           <div class="zip-demog-crime stats-chart" data-chart='[["Violent Crime",0,11,32,45,0,0,0,0],["Property Crime",0,0,0,0,185,1205,125,2]]' id="zip-demog-crime-3">
+           </div>
+           <div class="stats-chart-label">
+            Grapevine, TX
+           </div>
+          </div>
+         </div>
+         <div class="zip-data-grp clearfix">
+          <dl class="zip-stats zip-stats-left">
+           <h3>
+            Crime rates in Lewisville, TX:
+           </h3>
+           <dt>
+            <strong>
+             Total
+            </strong>
+           </dt>
+           <dd>
+            2,940
+           </dd>
+           <dt class="l2">
+            <strong>
+             Violent Crime
+            </strong>
+           </dt>
+           <dd>
+            185
+           </dd>
+           <dt class="l3">
+            Murder &amp; Manslaughter
+           </dt>
+           <dd>
+            1
+           </dd>
+           <dt class="l3">
+            Forcible Rape
+           </dt>
+           <dd>
+            21
+           </dd>
+           <dt class="l3">
+            Robbery
+           </dt>
+           <dd>
+            73
+           </dd>
+           <dt class="l3">
+            Aggravated Assault
+           </dt>
+           <dd>
+            90
+           </dd>
+           <dt class="l2">
+            <strong>
+             Property Crime
+            </strong>
+           </dt>
+           <dd>
+            2,755
+           </dd>
+           <dt class="l3">
+            Burglary
+           </dt>
+           <dd>
+            553
+           </dd>
+           <dt class="l3">
+            Larceny &amp; Theft
+           </dt>
+           <dd>
+            1,916
+           </dd>
+           <dt class="l3">
+            Motor Vehicle Theft
+           </dt>
+           <dd>
+            286
+           </dd>
+           <dt class="l3">
+            Arson
+           </dt>
+           <dd>
+            4
+           </dd>
+          </dl>
+          <div class="stats-chart-ext stats-chart-right">
+           <div class="zip-demog-crime stats-chart" data-chart='[["Violent Crime",1,21,73,90,0,0,0,0],["Property Crime",0,0,0,0,553,1916,286,4]]' id="zip-demog-crime-4">
+           </div>
+           <div class="stats-chart-label">
+            Lewisville, TX
+           </div>
+          </div>
+         </div>
+        </div>
+        <section class="translate">
+         <h4>
+          Discuss this
+          <a href="http://www.uszip.com/zip/75019">
+           75019 zip code information page
+          </a>
+          with the community:
+         </h4>
+         <div class="fb-comments-unloaded" data-colorscheme="light" data-href="http://www.uszip.com/zip/75019" data-numposts="5">
+         </div>
+        </section>
+        <hr/>
+        <section id="biblio">
+         <hgroup>
+          <h1>
+           Citation
+          </h1>
+          <h4>
+           Use the citation below to add this
+           <strong>
+            75019
+           </strong>
+           zip code data to your bibliography:
+          </h4>
+         </hgroup>
+         <div class="rc5">
+          <p data-term="75019" id="cite-style-select">
+           <strong>
+            Style:
+           </strong>
+           <a class="rc3 s" data-type="MLA" href="javascript:void(0);" id="cite-style-select-MLA">
+            MLA
+           </a>
+           <a class="rc3" data-type="Chicago" href="javascript:void(0);" id="cite-style-select-Chicago">
+            Chicago
+           </a>
+           <a class="rc3" data-type="APA" href="javascript:void(0);" id="cite-style-select-APA">
+            APA
+           </a>
+          </p>
+          <p id="cite-content">
+           <cite>
+            "75019."
+           </cite>
+           <em>
+            USZip.com.
+           </em>
+           STANDS4 LLC, 2015. Web. 3 Sep. 2015. &lt;
+           <a class="force-wrap" href="http://www.uszip.com/zip/75019">
+            http://www.uszip.com/zip/75019
+           </a>
+           &gt;.
+          </p>
+         </div>
+        </section>
+        <br/>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-4 col-sm-pull-8" id="content-aside">
+      <div class="hidden-xs">
+       <hr class="sep"/>
+       <div class="tagline">
+        <h2>
+         The Web's Largest Resource for
+        </h2>
+        <h1>
+         ZIP Codes
+         <span>
+          &amp;
+         </span>
+         Places
+        </h1>
+       </div>
+       <div class="nsep">
+        <hr/>
+        <h3>
+         A Member Of The
+         <span>
+          STANDS4 Network
+         </span>
+        </h3>
+       </div>
+       <div id="sb-social">
+        <div class="clearfix">
+         <div class="social" title="Share this page on Facebook">
+          <a href="javascript:void(0);" id="share-facebook" target="_blank">
+           <div class="fb">
+           </div>
+          </a>
+         </div>
+         <div class="social" title="Share this page on Twitter">
+          <a href="javascript:void(0);" id="share-twitter" target="_blank">
+           <div class="tw">
+           </div>
+          </a>
+         </div>
+         <div class="social" title="Share this page on Google+">
+          <a href="javascript:void(0);" id="share-googleplus" target="_blank">
+           <div class="gp">
+           </div>
+          </a>
+         </div>
+         <div class="social" title="Share this page with AddThis">
+          <a href="javascript:void(0);" id="share-addthis" target="_blank">
+           <div class="at">
+           </div>
+          </a>
+         </div>
+        </div>
+       </div>
+       <hr class="sep"/>
+      </div>
+      <div class="cblocks">
+       <div class="cblock fstate">
+        <hgroup class="clearfix">
+         <h4>
+          State info:
+         </h4>
+         <h3>
+          Texas
+         </h3>
+        </hgroup>
+        <div class="cblock-int clearfix">
+         <h4>
+          Texas, Lone-Star State, TX; the second largest state; located in southwestern United States on the Gulf of Mexico
+         </h4>
+         <div class="about-state-flag">
+          <img src="flags/TX.png"/>
+         </div>
+         <p>
+          Texas is a state located in the South Central United States, nicknamed the Lone Star State. Texas is the second largest U.S. state in both area and population, spanning 268,820 square miles (696,200 km2), and with a growing population of 24.3 million residents. Houston is its largest city and the fourth-largest in the United States, while the DallasFort Worth metropolitan area (also called the Metroplex) is the largest metropolitan area in the state and the fourth-largest in the nation. Other major cities include San Antonio and Austin, the capital.
+         </p>
+         <hr/>
+         <h4>
+          Browse by state:
+         </h4>
+         <ul class="clearfix">
+          <li>
+           <a href="state.php?state=AL">
+            Alabama
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=AK">
+            Alaska
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=AZ">
+            Arizona
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=AR">
+            Arkansas
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=CA">
+            California
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=CO">
+            Colorado
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=CT">
+            Connecticut
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=DE">
+            Delaware
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=FL">
+            Florida
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=GA">
+            Georgia
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=HI">
+            Hawaii
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=ID">
+            Idaho
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=IL">
+            Illinois
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=IN">
+            Indiana
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=IA">
+            Iowa
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=KS">
+            Kansas
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=KY">
+            Kentucky
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=LA">
+            Louisiana
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=ME">
+            Maine
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=MD">
+            Maryland
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=MA">
+            Massachusetts
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=MI">
+            Michigan
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=MN">
+            Minnesota
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=MS">
+            Mississippi
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=MO">
+            Missouri
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=MT">
+            Montana
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=NE">
+            Nebraska
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=NV">
+            Nevada
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=NH">
+            New Hampshire
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=NJ">
+            New Jersey
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=NM">
+            New Mexico
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=NY">
+            New York
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=NC">
+            North Carolina
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=ND">
+            North Dakota
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=OH">
+            Ohio
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=OK">
+            Oklahoma
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=OR">
+            Oregon
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=PA">
+            Pennsylvania
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=PR">
+            Puerto Rico
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=RI">
+            Rhode Island
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=SC">
+            South Carolina
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=SD">
+            South Dakota
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=TN">
+            Tennessee
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=TX">
+            Texas
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=UT">
+            Utah
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=VT">
+            Vermont
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=VA">
+            Virginia
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=WA">
+            Washington
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=DC">
+            Washington, D.C.
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=WV">
+            West Virginia
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=WI">
+            Wisconsin
+           </a>
+          </li>
+          <li>
+           <a href="state.php?state=WY">
+            Wyoming
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="cblock fweather">
+        <hgroup class="clearfix">
+         <h4>
+          Weather conditions in:
+         </h4>
+         <h3>
+          Coppell, TX
+         </h3>
+        </hgroup>
+        <div class="cblock-int clearfix">
+         <img class="weather-icon" src="http://l.yimg.com/a/i/us/we/52/30.gif"/>
+         <p>
+          Partly Cloudy, 86F
+         </p>
+         <p>
+          51% Humidity
+         </p>
+        </div>
+       </div>
+       <div class="cblock fstate">
+        <hgroup class="clearfix">
+         <h4>
+          Top 5 Baby Names in:
+         </h4>
+         <h3>
+          Texas
+         </h3>
+        </hgroup>
+        <div class="cblock-int clearfix">
+         <p>
+          <strong>
+           Female
+          </strong>
+         </p>
+         Sophia   Isabella   Emma   Mia   Emily
+         <p>
+          <strong>
+           Male
+          </strong>
+         </p>
+         Jacob   Jayden   Ethan   Noah   Daniel
+         <p>
+         </p>
+        </div>
+       </div>
+      </div>
+      <section>
+       <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+       </script>
+       <!-- ZIP_NEW_TRANS_300_250 -->
+       <ins class="adsbygoogle" data-ad-client="ca-pub-6071864913982699" data-ad-slot="5101701771" style="display:inline-block;width:300px;height:250px">
+       </ins>
+       <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+      </section>
+      <section style="margin-bottom:20px;">
+       <iframe frameborder="0" height="415" marginheight="0" marginwidth="0" name="newsmax_container" scrolling="no" src="adunits/homepage_sidebar_newsmax_300x250_iframe.php" width="300">
+       </iframe>
+      </section>
+      <section>
+       <script type="text/javascript">
+        <!--
+	e9 = new Object();
+    e9.size = "300x250";
+//-->
+       </script>
+       <script src="http://tags.expo9.exponential.com/tags/Definitionsnet/ROS/tags.js" type="text/javascript">
+       </script>
+      </section>
+      <section>
+       <script type="text/javascript">
+        var vclk_options = {sid:9374,media_id:6,media_type:8,version:"1.4"};
+       </script>
+       <script class="vclk_pub_code" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=9374&amp;media_id=6&amp;media_type=8&amp;version=1.4&amp;exc=1" type="text/javascript">
+       </script>
+       <noscript>
+        <a href="http://media.fastclick.net/w/click.here?sid=9374&amp;m=6&amp;c=1" target="_blank">
+         <img border="1" height="250" src="http://media.fastclick.net/w/get.media?sid=9374&amp;m=6&amp;tp=8&amp;d=s&amp;c=1&amp;vcm_acv=1.4" width="300"/>
+        </a>
+       </noscript>
+      </section>
+      <section>
+       <!-- Async Tag // Tag for network 9533: Marketplace: STANDS4 LLC // Website: STANDS4 Network // Page: Stands4 Network - Smaller sites // Placement: Stands4 Network 300x250 ATF (3219708) // created at: Dec 8, 2014 8:39:43 AM -->
+       <script src="http://aka-cdn-ns.adtechus.com/dt/common/DAC.js" type="text/javascript">
+       </script>
+       <div id="3219708">
+       </div>
+       <script>
+        ADTECH.config.page = { protocol: 'http', server: 'adserver.adtechus.com', network: '9533.1', pageid: 693161, params: { loc: '100' }};
+ADTECH.config.placements[3219708] = { sizeid: 170, params: { alias: '', target: '_blank' }};
+ADTECH.loadAd(3219708);
+       </script>
+      </section>
+      <section>
+       <script src="http://ap.lijit.com///www/delivery/fpi.js#?z=181260&amp;u=stands4&amp;width=300&amp;height=250" type="text/javascript">
+       </script>
+      </section>
+     </div>
+    </div>
+   </div>
+   <footer id="footer">
+    <div class="clearfix container-fluid" id="footer-int">
+     <div class="row">
+      <div class="col-xs-12 col-sm-3">
+       <div class="row">
+        <div class="col-xs-6 col-sm-5">
+         <ul>
+          <h5>
+           Company
+          </h5>
+          <li>
+           <a href="http://www.uszip.com/">
+            Home
+           </a>
+          </li>
+          <li>
+           <a href="about.php?slc=USZip">
+            About
+           </a>
+          </li>
+          <li>
+           <a href="news.php">
+            News
+           </a>
+          </li>
+          <li>
+           <a href="press.php">
+            Press
+           </a>
+          </li>
+          <li>
+           <a href="awards.php">
+            Awards
+           </a>
+          </li>
+          <li>
+           <a href="testimonials.php">
+            Testimonials
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="col-xs-6 col-sm-7">
+         <ul>
+          <h5>
+           Services
+          </h5>
+          <li>
+           <a href="invite.php">
+            Tell a Friend
+           </a>
+          </li>
+          <li>
+           <a href="" id="page-bookmark">
+            Bookmark Us
+           </a>
+          </li>
+          <li>
+           <a href="zip_api.php">
+            ZIP Codes API
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class="col-xs-12 col-sm-4">
+       <div class="row">
+        <div class="col-xs-12 col-sm-12">
+         <ul class="last">
+          <h5>
+           Legal &amp; Contact
+          </h5>
+          <li>
+           <a href="terms.php">
+            Terms of Use
+           </a>
+          </li>
+          <li>
+           <a href="privacy.php">
+            Privacy Policy
+           </a>
+          </li>
+          <li>
+           <a href="contact.php">
+            Contact Us
+           </a>
+          </li>
+          <li class="ex">
+           <a href="advertise.php">
+            Advertise
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class="col-xs-12 col-sm-5" id="s4-network">
+       <div class="row">
+        <h5 class="col-xs-12 col-sm-12">
+         The STANDS4 Network
+        </h5>
+       </div>
+       <!-- Desktop version -->
+       <div class="clearfix row hidden-xs">
+        <div class="col-xs-12 col-sm-8">
+         <div class="row">
+          <div class="col-xs-6 col-sm-6">
+           <ul>
+            <li class="nw-abbreviations">
+             <a href="http://www.abbreviations.com/" rel="nofollow">
+              Abbreviations
+             </a>
+            </li>
+            <li class="nw-definitions">
+             <a href="http://www.definitions.net/" rel="nofollow">
+              Definitions
+             </a>
+            </li>
+            <li class="nw-lyrics">
+             <a href="http://www.lyrics.net/" rel="nofollow">
+              Lyrics
+             </a>
+            </li>
+            <li class="nw-quotes">
+             <a href="http://www.quotes.net/" rel="nofollow">
+              Quotes
+             </a>
+            </li>
+            <li class="nw-symbols">
+             <a href="http://www.symbols.com/" rel="nofollow">
+              Symbols
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div class="col-xs-6 col-sm-6">
+           <ul>
+            <li class="nw-biographies">
+             <a href="http://www.biographies.net/" rel="nofollow">
+              Biographies
+             </a>
+            </li>
+            <li class="nw-grammar">
+             <a href="http://www.grammar.com/" rel="nofollow">
+              Grammar
+             </a>
+            </li>
+            <li class="nw-phrases">
+             <a href="http://www.phrases.net/" rel="nofollow">
+              Phrases
+             </a>
+            </li>
+            <li class="nw-references">
+             <a href="http://www.references.net/" rel="nofollow">
+              References
+             </a>
+            </li>
+            <li class="nw-synonyms">
+             <a href="http://www.synonyms.net/" rel="nofollow">
+              Synonyms
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+        <div class="col-xs-12 col-sm-4">
+         <ul class="last">
+          <li class="nw-convert">
+           <a href="http://www.convert.net/" rel="nofollow">
+            Conversions
+           </a>
+          </li>
+          <li class="nw-kamus">
+           <a href="http://www.kamus.net/" rel="nofollow">
+            Kamus
+           </a>
+          </li>
+          <li class="nw-poetry">
+           <a href="http://www.poetry.net/" rel="nofollow">
+            Poetry
+           </a>
+          </li>
+          <li class="nw-rhymes">
+           <a href="http://www.rhymes.net/" rel="nofollow">
+            Rhymes
+           </a>
+          </li>
+          <li class="nw-uszip">
+           <a href="http://www.uszip.com/" rel="nofollow">
+            Zip Codes
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <!-- Mobile version -->
+       <div class="clearfix row hidden-sm hidden-md hidden-lg">
+        <div class="col-xs-12 col-sm-8">
+         <div class="row">
+          <div class="col-xs-6 col-sm-6">
+           <ul>
+            <li class="nw-abbreviations">
+             <a href="http://www.abbreviations.com/" rel="nofollow">
+              Abbreviations
+             </a>
+            </li>
+            <li class="nw-biographies">
+             <a href="http://www.biographies.net/" rel="nofollow">
+              Biographies
+             </a>
+            </li>
+            <li class="nw-convert">
+             <a href="http://www.convert.net/" rel="nofollow">
+              Conversions
+             </a>
+            </li>
+            <li class="nw-definitions">
+             <a href="http://www.definitions.net/" rel="nofollow">
+              Definitions
+             </a>
+            </li>
+            <li class="nw-grammar">
+             <a href="http://www.grammar.com/" rel="nofollow">
+              Grammar
+             </a>
+            </li>
+            <li class="nw-kamus">
+             <a href="http://www.kamus.net/" rel="nofollow">
+              Kamus
+             </a>
+            </li>
+            <li class="nw-lyrics">
+             <a href="http://www.lyrics.net/" rel="nofollow">
+              Lyrics
+             </a>
+            </li>
+            <li class="nw-phrases">
+             <a href="http://www.phrases.net/" rel="nofollow">
+              Phrases
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div class="col-xs-6 col-sm-6">
+           <ul>
+            <li class="nw-poetry">
+             <a href="http://www.poetry.net/" rel="nofollow">
+              Poetry
+             </a>
+            </li>
+            <li class="nw-quotes">
+             <a href="http://www.quotes.net/" rel="nofollow">
+              Quotes
+             </a>
+            </li>
+            <li class="nw-references">
+             <a href="http://www.references.net/" rel="nofollow">
+              References
+             </a>
+            </li>
+            <li class="nw-rhymes">
+             <a href="http://www.rhymes.net/" rel="nofollow">
+              Rhymes
+             </a>
+            </li>
+            <li class="nw-symbols">
+             <a href="http://www.symbols.com/" rel="nofollow">
+              Symbols
+             </a>
+            </li>
+            <li class="nw-synonyms">
+             <a href="http://www.synonyms.net/" rel="nofollow">
+              Synonyms
+             </a>
+            </li>
+            <li class="nw-uszip">
+             <a href="http://www.uszip.com/" rel="nofollow">
+              Zip Codes
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="clearfix">
+        <div class="copyright">
+         <strong>
+           2001-2015 STANDS4 LLC.
+         </strong>
+         <br/>
+         All rights reserved.
+        </div>
+        <div id="social-icons">
+         <a href="http://www.facebook.com/STANDS4" rel="nofollow" target="_blank">
+          <div class="social fb">
+          </div>
+         </a>
+         <a href="http://twitter.com/justadded" rel="nofollow" target="_blank">
+          <div class="social tw">
+          </div>
+         </a>
+         <a href="https://plus.google.com/+abbreviations/" rel="nofollow" target="_blank">
+          <div class="social gp">
+          </div>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <script src="//code.jquery.com/jquery-1.11.2.min.js">
+  </script>
+  <script>
+   window.jQuery || document.write('<script src="root/app_common/js/libs/jquery-1.11.2.min.js"><\/script>')
+  </script>
+  <script src="//www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22visualization%22%2C%22version%22%3A%221%22%2C%22packages%22%3A%5B%22corechart%22%5D%7D%5D%7D">
+  </script>
+  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js">
+  </script>
+  <script>
+   window.jQuery || document.write('<script src="root/app_common/js/libs/jquery-ui-1.11.3.custom.min.js"><\/script>')
+  </script>
+  <script src="root/app_common/js/libs/jquery.placeholder.min.js">
+  </script>
+  <script src="js/uszip.js">
+  </script>
+ </body>
+</html>

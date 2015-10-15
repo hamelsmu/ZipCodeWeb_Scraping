@@ -8,7 +8,7 @@ def zip_info(zipcode):
     
     input value zipcode must be a string value
     returns a list of tuples, which are (key, value) pairs
-    
+
     Written by Hamel Husain
     hamel.husain@gmail.com
     """
@@ -36,7 +36,7 @@ def zip_info(zipcode):
     
     with open('sample_html.txt', 'w') as html: #so you can dump a copy of the HTML somewhere
         html.write(back_out_unicode(raw_html))
-        
+
     ##############
     #Checks to see if zipcode returned by website is the one you input!##
     #############
@@ -49,7 +49,7 @@ def zip_info(zipcode):
         city = back_out_unicode(soup.find('title').text.strip().replace(' zip code', ''))
         
         
-    ##Mark Zip Code as Retrieved Or Not##
+    #Mark Zip Code as Retrieved Or Not
     data.append(('Zip Found', zip_valid)) 
     
     if zip_valid:
